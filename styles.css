@@ -1,2 +1,9 @@
+img {
+	width: 80vw;
+	height: 50vh;
+}
 
-/* Your CSS Code here. */
+a {
+	text-decoration: none;
+	color: black;
+}
